@@ -1,0 +1,22 @@
+{
+  "name": "coin-test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1",
+    "git": "^0.1.5",
+    "gpio": "^0.2.10",
+    "onoff": "^6.0.3",
+    "pm2": "^5.3.0",
+    "qs": "^6.11.2"
+  }
+}
